@@ -5,7 +5,7 @@ You need python3 (usally comes with any ubuntu OS)
 ```
 bash install.sh
 ```
-# Running AutoDumper & Alerter
+# Running & Autorun enable
 ```
 systemctl enable discord --now
 ```
