@@ -192,7 +192,7 @@ payload = {
         },
         {
           "name": "IP Address:",
-          "value": "1.3.3.7",
+          "value": "DISCORDSERVERIPADRESSLW",
           "inline": true
         },
         {
